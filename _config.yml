@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: fr-FR
+lang: "fr-FR"
 title: "L'impact environnemental de la 5G"
 email:
 description: "Veille technologique dans le cadre du MOS 4.4 "Nouvelles Technologies de l'Information et de la Communication"
