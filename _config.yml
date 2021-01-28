@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
+lang: fr-FR
+title: L'impact environnemental de la 5G
 email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
+description: Veille technologique dans le cadre du MOS 4.4 "Nouvelles Technologies de l'Information et de la Communication"
+baseurl: "/environnement-5g" # the optional subpath of your site, e.g. "/blog"
+url: "raphaelchalicarne.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author: "Raphaël Chalicarne"
   name:
-  twitter:
+  twitter: "https://twitter.com/RChalicarne"
   picture:
-twitter_username:
-github_username:
+twitter_username: "RChalicarne"
+github_username: "raphaelchalicarne"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
