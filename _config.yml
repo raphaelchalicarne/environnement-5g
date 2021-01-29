@@ -22,7 +22,7 @@ url: "https://raphaelchalicarne.github.io" # the base hostname & protocol for yo
 author:
   name: "Raphaël Chalicarne"
   twitter: RChalicarne
-  picture:
+  picture: "https://raphaelchalicarne.github.io/Pictures/photo_carre_souriant.jpg"
 twitter_username: RChalicarne
 github_username: raphaelchalicarne
 logo: # path of site logo, e.g. "/assets/images/logo.png"
