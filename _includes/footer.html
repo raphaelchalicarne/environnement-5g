@@ -2,10 +2,14 @@
   <div class="inner">
     <div class="copyright">
       {% if site.copyright %}
-        {{ site.copyright | markdownify }}
+      {{ site.copyright | markdownify }}
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.</p>
       {% endif %}
+    </div>
+    <div class="copyright">Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
+      from
+      <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
     </div>
   </div>
 </footer>
