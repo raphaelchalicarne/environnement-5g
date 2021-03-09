@@ -1,12 +1,7 @@
----
-layout: post
-title: "La 5G, c'est quoi?"
----
+I"�<h1 id="présentation">Présentation</h1>
+<p>La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project (<a href="https://www.3gpp.org/">3GPP</a>). L’objectif <a href="https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/la-5g.html">selon l’Arcep</a>, n’est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l’adoption de nouveaux usages au sein d’une même technologie.</p>
 
-# Présentation
-La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project ([3GPP](https://www.3gpp.org/)). L'objectif [selon l'Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/la-5g.html), n'est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l'adoption de nouveaux usages au sein d'une même technologie.
-
-# Performances
+<h1 id="performances">Performances</h1>
 <table>
 <thead>
   <tr>
@@ -53,3 +48,6 @@ La 5G consiste en un standard de téléphonie mobile international élaboré par
   </tr>
 </tbody>
 </table>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                          | 0,1  | 10   |
+</code></pre></div></div>
+:ET
