@@ -60,6 +60,14 @@ La 5G Infrastructure Public Private Partnership ([5G-PPP](https://5g-ppp.eu/)) a
 # Familles d'usage
 La 5G se répartit en trois familles d'usage qui sont caractérisées par des usages et des performances appropriées. (Source : [Arcep](https://www.arcep.fr/fileadmin/cru-1614035751/reprise/dossiers/collectivites/ateliers-TC-2019/atelier-TC-5G-part01-260619.pdf#page=4))
 
-* **eMBB : Enhanced Mobile Broadband** : Cette famille correspond au **très haut débit mobile** et représente l’évolution de la plupart des services proposés par les réseaux 4G.
+* **eMBB : Enhanced Mobile Broadband** : Cette famille correspond au **très haut débit mobile** et représente l’évolution de la plupart des services proposés par les réseaux 4G. C'est d'abord cet usage qui sera activé.
 * **mMTC : Massive Machine Type Communications (connexion d’un nombre massif d’objets connectés)** : Cette famille regroupe principalement les usages liés à l’Internet des objets. Ces services nécessitent une couverture étendue, une consommation énergétique contenue et des débits relativement restreints.
 * **uRLLC : Ultra-reliable and Low Latency Communications (les communications critiques à très faible latence et très haute fiabilité)** : Cette famille regroupe toutes les applications nécessitant une réactivité extrêmement importante ainsi qu’une garantie très forte de transmission du message.
+
+## Configuration en tranches ("network slicing")
+Chaque famille d'usages correspond à un ensemble de performances adaptées. Les indicateurs de performance ne pourront être tous satisfaits simultanément sur un même réseau. Les réseaux 5G seront donc configurés en "tranches" qui s'adapteront dynamiquement à la demande, en fonction des usages. Cela est rendu possible par la "virtualisation" logicielle des fonctions, qui est la fonctionnalité la plus innovante de la 5G. Elle est attendue pour 2023.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/5G_usages_kpi.png" alt="Performances attendues selon les usages de chaque famille">
+  <figcaption>Source : <a href="https://www.arcep.fr/fileadmin/cru-1614035751/reprise/dossiers/collectivites/ateliers-TC-2019/atelier-TC-5G-part01-260619.pdf#page=5">Arcep</a></figcaption>
+</figure> 
