@@ -1,0 +1,53 @@
+I"'<h1 id="présentation">Présentation</h1>
+<p>La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project (<a href="https://www.3gpp.org/">3GPP</a>). L’objectif <a href="https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/la-5g.html">selon l’Arcep</a>, n’est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l’adoption de nouveaux usages au sein d’une même technologie.</p>
+
+<h1 id="performances">Performances</h1>
+
+<p>La 5G Infrastructure Public Private Partnership (<a href="https://5g-ppp.eu/">5G-PPP</a>) a défini des indicateurs de performances clés correspondant aux objectifs qui doivent être atteints par la 5G par rapport à la 4G. Ils sont notamment précisés dans le <a href="https://5g-ppp.eu/wp-content/uploads/2017/10/Euro-5G-D2.6_Final-report-on-programme-progress-and-KPIs.pdf">rapport final D2.6v0.2  sur l’avancement du programme et les indicateurs de performance clés</a> du 5G-PPP.</p>
+<table>
+<thead>
+  <tr>
+    <th>Performances/Génération</th>
+    <th>4G</th>
+    <th>5G</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Débit maximal (Gbit/s)</td>
+    <td>1</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Débit aperçu par l’utilisateur (Mbit/s)</td>
+    <td>10</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Vitesse (km/h)</td>
+    <td>350</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>Latence (ms)</td>
+    <td>10</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Nombre d’objets connectés sur une zone (quantité d’objets/km²)</td>
+    <td>10^5</td>
+    <td>10^6</td>
+  </tr>
+  <tr>
+    <td>Efficacité énergétique du réseau</td>
+    <td>1x</td>
+    <td>100x</td>
+  </tr>
+  <tr>
+    <td>Débit sur une zone (Mbit/s/m²)</td>
+    <td>0,1</td>
+    <td>10</td>
+  </tr>
+</tbody>
+</table>
+:ET
