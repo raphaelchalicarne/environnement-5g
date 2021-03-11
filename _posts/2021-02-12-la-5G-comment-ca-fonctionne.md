@@ -36,3 +36,7 @@ Pour l'instant, la 5G fonctionne avec un cœur de réseau 4G : on parle de 5G "N
 
 ## 5G Stand Alone (SA)
 La 5G "Stand Alone" contrôlée par un cœur de réseau 5G sera mise en place à partir de 2022 ou 2023. Cette architecture a été spécifiée en considérant les concepts de virtualisation des fonctions réseau  (NFV - *Network Function Virtualisation*). Il s'agit d'un concept d’architecture réseau qui utilise les technologies de virtualisation informatique pour virtualiser des classes entières de fonctions de nœuds réseau en blocs de construction qui peuvent se connecter, ou enchaîner, pour créer des services de communication.
+
+# Sommaire
+- [Article 1 : La 5G, c'est quoi?]({% post_url 2021-02-05-la-5g-cest-quoi %}). 
+- [Article 3 : Quelle consommation est associée à la 5G?]({% post_url 2021-02-19-quelle-consommation-est-associee-a-la-5g %}). 
