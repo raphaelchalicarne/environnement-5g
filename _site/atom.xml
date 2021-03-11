@@ -1,9 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://raphaelchalicarne.github.io/environnement-5g/atom.xml" rel="self" type="application/atom+xml" /><link href="https://raphaelchalicarne.github.io/environnement-5g/" rel="alternate" type="text/html" hreflang="fr" /><updated>2021-03-10T14:35:09+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/atom.xml</id><title type="html">L’impact environnemental de la 5G</title><subtitle>Veille technologique dans le cadre du MOS 4.4 : Nouvelles Technologies de l'Information et de la Communication</subtitle><author><name>Raphaël Chalicarne</name></author><entry><title type="html">La 5G, c’est quoi?</title><link href="https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi.html" rel="alternate" type="text/html" title="La 5G, c’est quoi?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi</id><content type="html" xml:base="https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi.html">&lt;h1 id=&quot;présentation&quot;&gt;Présentation&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://raphaelchalicarne.github.io/environnement-5g/atom.xml" rel="self" type="application/atom+xml" /><link href="https://raphaelchalicarne.github.io/environnement-5g/" rel="alternate" type="text/html" hreflang="fr" /><updated>2021-03-11T19:43:38+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/atom.xml</id><title type="html">L’impact environnemental de la 5G</title><subtitle>Veille technologique dans le cadre du MOS 4.4 : Nouvelles Technologies de l'Information et de la Communication</subtitle><author><name>Raphaël Chalicarne</name></author><entry><title type="html">La 5G, comment ça fonctionne?</title><link href="https://raphaelchalicarne.github.io/environnement-5g/2021/03/05/la-5G-comment-ca-fonctionne.html" rel="alternate" type="text/html" title="La 5G, comment ça fonctionne?" /><published>2021-03-05T00:00:00+01:00</published><updated>2021-03-05T00:00:00+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/2021/03/05/la-5G-comment-ca-fonctionne</id><content type="html" xml:base="https://raphaelchalicarne.github.io/environnement-5g/2021/03/05/la-5G-comment-ca-fonctionne.html">&lt;h1 id=&quot;antennes-et-imbrication-entre-4g-et-5g&quot;&gt;Antennes et imbrication entre 4G et 5G&lt;/h1&gt;
+&lt;p&gt;Une crainte concernant l’empreinte écologique de la 5G est que les antennes viennent s’ajouter massivement aux antennes 4G. Si cela est vrai dans la première phase du déploiement de la 5G, selon &lt;a href=&quot;https://www.fftelecoms.org/app/uploads/2020/10/CSF-5G-et-environnement-FINAL-22-septembre-2020.pdf#page=5&quot;&gt;la Fédération Française des Télécoms&lt;/a&gt;, cette densification sera à priori ponctuelle et ciblée. De plus, la 5G s’inscrivant pleinement dans la continuité de la 4G, les équipements matériels et logiciels seront communs.&lt;/p&gt;
+
+&lt;h2 id=&quot;5g-en-zone-dense&quot;&gt;5G en zone dense&lt;/h2&gt;
+&lt;p&gt;En zone dense, la 5G à 3,5GHz (bande “coeur 5G”) vient rajouter une ressource supplémentaire, plus large et plus efficace que les bandes 4G. Le débit à partager dans la zone est donc plus important et répond à l’augmentation constante du trafic sur les réseaux mobiles (entre +30% et +50% par an).&lt;/p&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://raphaelchalicarne.github.io/environnement-5g/assets/images/5G_3-5GHz.png&quot; alt=&quot;La 5G à 3,5GHz&quot; /&gt;
+  &lt;figcaption&gt;Source : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/user_upload/grands_dossiers/5G/aspects-techniques-5G-imbrication-entre-4G-et-5G.pdf#page=4&quot;&gt;Arcep&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;la-5g-sur-des-bandes-de-fréquences-actuellement-4g&quot;&gt;La 5G sur des bandes de fréquences actuellement 4G&lt;/h2&gt;
+&lt;p&gt;La 5G peut être déployée sur des fréquences actuellement utilisées en 4G (bande 700 MHz). Si la bande est déjà déployée en 4G dans la zone, on peut remplacer la ressource 4G par une ressource 5G plus optimisée en débit. Cela signifie que plus d’usagers pourront se connecter en 5G là où il y avait déjà la 4G. (Source : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/user_upload/grands_dossiers/5G/aspects-techniques-5G-imbrication-entre-4G-et-5G.pdf#page=5&quot;&gt;Arcep&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;5g-non-stand-alone-nsa-et-bande-dancrage&quot;&gt;5G Non Stand Alone (NSA) et bande d’ancrage&lt;/h2&gt;
+&lt;p&gt;Pour l’instant, la 5G fonctionne avec un cœur de réseau 4G : on parle de 5G “Non Stand Alone”. Pour accéder à la 5G il faut donc être dans une zone couverte par la bande 5G, &lt;em&gt;mais aussi&lt;/em&gt; couverte par la bande 4G portant la signalisation. Cette bande 4G “de pilotage” est appelée &lt;strong&gt;bande d’ancrage&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://raphaelchalicarne.github.io/environnement-5g/assets/images/5G_bande_dancrage.png&quot; alt=&quot;5G Non Stand Alone et bande d’ancrage&quot; /&gt;
+  &lt;figcaption&gt;Source : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/user_upload/grands_dossiers/5G/aspects-techniques-5G-imbrication-entre-4G-et-5G.pdf#page=7&quot;&gt;Arcep&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Raphaël Chalicarne</name></author><summary type="html">Antennes et imbrication entre 4G et 5G Une crainte concernant l’empreinte écologique de la 5G est que les antennes viennent s’ajouter massivement aux antennes 4G. Si cela est vrai dans la première phase du déploiement de la 5G, selon la Fédération Française des Télécoms, cette densification sera à priori ponctuelle et ciblée. De plus, la 5G s’inscrivant pleinement dans la continuité de la 4G, les équipements matériels et logiciels seront communs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" /><media:content medium="image" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">La 5G, c’est quoi?</title><link href="https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi.html" rel="alternate" type="text/html" title="La 5G, c’est quoi?" /><published>2021-02-26T00:00:00+01:00</published><updated>2021-02-26T00:00:00+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi</id><content type="html" xml:base="https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5g-cest-quoi.html">&lt;h1 id=&quot;présentation&quot;&gt;Présentation&lt;/h1&gt;
 &lt;p&gt;La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project (&lt;a href=&quot;https://www.3gpp.org/&quot;&gt;3GPP&lt;/a&gt;). L’objectif &lt;a href=&quot;https://www.arcep.fr/la-regulation/grands-dossiers-reseaux-mobiles/la-5g.html&quot;&gt;selon l’Arcep&lt;/a&gt;, n’est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l’adoption de nouveaux usages au sein d’une même technologie.&lt;/p&gt;
 
 &lt;h1 id=&quot;performances&quot;&gt;Performances&lt;/h1&gt;
 
-&lt;p&gt;La 5G Infrastructure Public Private Partnership (&lt;a href=&quot;https://5g-ppp.eu/&quot;&gt;5G-PPP&lt;/a&gt;) a défini des indicateurs de performances clés correspondant aux objectifs qui doivent être atteints par la 5G par rapport à la 4G. Ils sont notamment précisés dans le &lt;a href=&quot;https://5g-ppp.eu/wp-content/uploads/2017/10/Euro-5G-D2.6_Final-report-on-programme-progress-and-KPIs.pdf#%5B%7B%22num%22%3A59%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C82%2C781%2C0%5D&quot;&gt;rapport final D2.6v0.2  sur l’avancement du programme et les indicateurs de performance clés&lt;/a&gt; du 5G-PPP.&lt;/p&gt;
+&lt;p&gt;La 5G Infrastructure Public Private Partnership (&lt;a href=&quot;https://5g-ppp.eu/&quot;&gt;5G-PPP&lt;/a&gt;) a défini des indicateurs de performances clés correspondant aux objectifs qui doivent être atteints par la 5G par rapport à la 4G.&lt;/p&gt;
+&lt;figure class=&quot;align-center&quot;&gt;
 &lt;table&gt;
 &lt;thead&gt;
   &lt;tr&gt;
@@ -50,6 +71,8 @@
   &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;figcaption&gt;Source : &lt;a href=&quot;https://5g-ppp.eu/wp-content/uploads/2017/10/Euro-5G-D2.6_Final-report-on-programme-progress-and-KPIs.pdf#%5B%7B%22num%22%3A59%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C82%2C781%2C0%5D&quot;&gt;5G-PPP&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h1 id=&quot;familles-dusage&quot;&gt;Familles d’usage&lt;/h1&gt;
 &lt;p&gt;La 5G se répartit en trois familles d’usage qui sont caractérisées par des usages et des performances appropriées. (Source : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/reprise/dossiers/collectivites/ateliers-TC-2019/atelier-TC-5G-part01-260619.pdf#page=4&quot;&gt;Arcep&lt;/a&gt;)&lt;/p&gt;
@@ -66,4 +89,48 @@
 &lt;figure class=&quot;align-center&quot;&gt;
   &lt;img src=&quot;https://raphaelchalicarne.github.io/environnement-5g/assets/images/5G_usages_kpi.png&quot; alt=&quot;Performances attendues selon les usages de chaque famille&quot; /&gt;
   &lt;figcaption&gt;Source : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/reprise/dossiers/collectivites/ateliers-TC-2019/atelier-TC-5G-part01-260619.pdf#page=5&quot;&gt;Arcep&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;</content><author><name>Raphaël Chalicarne</name></author><summary type="html">Présentation La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project (3GPP). L’objectif selon l’Arcep, n’est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l’adoption de nouveaux usages au sein d’une même technologie.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" /><media:content medium="image" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;bandes-de-fréquences&quot;&gt;Bandes de fréquences&lt;/h1&gt;
+&lt;p&gt;3 bandes ont été identifiées au niveau européen comme “pionnières” pour la 5G. Elles possèdent des propriétés différentes et complémentaires.&lt;/p&gt;
+&lt;figure class=&quot;align-center&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Fréquences&lt;/th&gt;
+    &lt;th&gt;Date d'attribution&lt;/th&gt;
+    &lt;th&gt;Pénétration à l'intérieur&lt;/th&gt;
+    &lt;th&gt;Portée&lt;/th&gt;
+    &lt;th&gt;Débit&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;strong&gt;700 Mhz&lt;/strong&gt; : déjà attribuée aux opérateurs (depuis 2015) et utilisée pour la 4G, elle est pleinement disponible depuis mi-2019.&lt;/td&gt;
+    &lt;td&gt;2015&lt;/td&gt;
+    &lt;td&gt;★★★★&lt;/td&gt;
+    &lt;td&gt;★★★★&lt;/td&gt;
+    &lt;td&gt;★&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;strong&gt;3400 - 3800 MHz&lt;/strong&gt; : elle est souvent identifiée comme la bande &quot;coeur 5G&quot;&lt;/td&gt;
+    &lt;td&gt;2020&lt;/td&gt;
+    &lt;td&gt;★★&lt;/td&gt;
+    &lt;td&gt;★★★&lt;/td&gt;
+    &lt;td&gt;★★★&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;strong&gt;26 GHz&lt;/strong&gt; : Bande &quot;millimétrique&quot; avec des fréquences très élevées jusqu’à présent utilisées pour les liaisons satellitaires ou d’infrastructure, elle permettra des débits très importants dans des cellules de petites taille.&lt;/td&gt;
+    &lt;td&gt;Non attribuée&lt;/td&gt;
+    &lt;td&gt;★&lt;/td&gt;
+    &lt;td&gt;★&lt;/td&gt;
+    &lt;td&gt;★★★★&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;figcaption&gt;Sources : &lt;a href=&quot;https://www.arcep.fr/fileadmin/cru-1614035751/user_upload/grands_dossiers/5G/introduction-5G-usages-et-frequences.pdf#page=5&quot;&gt;Arcep&lt;/a&gt; et &lt;a href=&quot;https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=10&quot;&gt;Haut Conseil pour le Climat&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Les principales performances attendues de la 5G - augmentations des débits, réduction de la latence, et augmentation de la densité possible de terminaux connectés reposent sur l’utilisation des andes de fréquences à 3,5 GHz et 26 GHz, souvent appellée “vraie 5G”.&lt;/p&gt;
+
+&lt;p&gt;Pour savoir &lt;strong&gt;comment fonctionne la 5G&lt;/strong&gt;, consultez &lt;a href=&quot;/environnement-5g/2021/03/05/la-5G-comment-ca-fonctionne.html&quot;&gt;l’article suivant&lt;/a&gt;.&lt;/p&gt;</content><author><name>Raphaël Chalicarne</name></author><summary type="html">Présentation La 5G consiste en un standard de téléphonie mobile international élaboré par le 3rd Generation Partnership Project (3GPP). L’objectif selon l’Arcep, n’est plus seulement de toucher les opérateurs mobiles grand public, mais de faciliter l’adoption de nouveaux usages au sein d’une même technologie.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" /><media:content medium="image" url="https://raphaelchalicarne.github.io/environnement-5g/assets/images/cell-tower-5390644_1920.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
