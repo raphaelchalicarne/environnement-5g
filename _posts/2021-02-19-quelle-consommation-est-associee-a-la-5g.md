@@ -113,6 +113,14 @@ Le constat est le même concernant l'empreinte carbone de la 5G. Le Haut Conseil
   <figcaption>Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute <br>Source : <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=19">Haut conseil pour le climat, "Maîtriser l'impact carbone de la 5G"</a></figcaption>
 </figure>
 
+Différents scénarios de déploiement de la 5G ou de non-déploiement ont été considérés. Dans tous les cas, le Haut Conseil pour le Climat prévoit une augmentation de l'empreinte carbone du numérique. Cette empreinte carbone du numérique pourrait se voir accrue en 2030 toutes choses égales par ailleurs de 2,7 Mt éqCO2 dans l’évaluation basse (différence entre le scénario « la 5G du cahier des charges » et le « non-déploiement haut ») à 6,7 Mt éqCO2 dans l’évaluation haute (différence entre le scénario « la vraie 5G pour tous » et le « non-déploiement bas ») à l’horizon 2030.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/figure_2_hcc.png" alt="L'empreinte carbone du numérique selon plusieurs variantes de déploiement et non-déploiement de la 5G">
+  <figcaption>L'empreinte carbone du numérique selon plusieurs variantes de déploiement et non-déploiement de la 5G<br>Source : <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=18">Haut conseil pour le climat, "Maîtriser l'impact carbone de la 5G"</a></figcaption>
+</figure>
+
+Puisqu'une majorité de l'impact carbone lié au déploiement de la 5G repose sur la production de terminaux, le nombre de nouveaux objets connectés produits en raison du déploiement de la 5G pourrait grandement influer sur l'impact carbone final.
 
 # Sommaire
 - [Article 1 : La 5G, c'est quoi?]({{ site.url }}{{ site.baseurl }}/2021/02/05/la-5g-cest-quoi.html). 
