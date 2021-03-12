@@ -71,7 +71,8 @@ Dans un cas d'usage optimiste, les cas d'utilisation étudiés permettent d'éco
 
 Il est difficile de comparer ces résultats aux chiffres Français mais pour donner un ordre de grandeur, la population Française est presque 8 fois plus important que la population Suisse.
 
-La conclusion de l'étude Suisse est que la 5G a le potentiel de réduire les émissions de CO2 au delà de l'impact induit par l'empreinte carbone du numérique, quelquesoit le scénario considéré. Cependant, pour le [Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=13) **il est encore trop tôt pour quantifier les effets sur les émissions de GES de ces usages.**
+La conclusion de l'étude Suisse est que la 5G a le potentiel de réduire les émissions de CO2 au delà de l'impact induit par l'empreinte carbone du numérique, mais les auteurs de l'étude restent prudents et indiquent que les possibles effets rebonds peuvent compenser les économies de GES réalisées par l'adoption de la 5G. Des économies sont réalisables à condition de contrôler notre consommation de données et en mettant en place un cadre visant en particulier à diminuer nos émissions de GES. 
+Pour le [Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=13) **il est encore trop tôt pour quantifier les effets sur les émissions de GES de ces usages.**
 
 # Sommaire
 - [Article 1 : La 5G, c'est quoi?]({{ site.url }}{{ site.baseurl }}/2021/02/05/la-5g-cest-quoi.html). 
