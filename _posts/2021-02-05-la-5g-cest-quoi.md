@@ -118,5 +118,5 @@ Chaque famille d'usages correspond à un ensemble de performances adaptées. Les
 Les principales performances attendues de la 5G - augmentations des débits, réduction de la latence, et augmentation de la densité possible de terminaux connectés reposent sur l’utilisation des andes de fréquences à 3,5 GHz et 26 GHz, souvent appellée "vraie 5G".
 
 # Sommaire
-- [Article 2 : La 5G, comment ça fonctionne?]({% post_url 2021-02-12-la-5G-comment-ca-fonctionne %}). 
-- [Article 3 : Quelle consommation est associée à la 5G?]({% post_url 2021-02-19-quelle-consommation-est-associee-a-la-5g %}). 
+- [Article 2 : La 5G, comment ça fonctionne?]({{ site.url }}{{ site.baseurl }}/2021/02/12/la-5G-comment-ca-fonctionne.html).
+- [Article 3 : Quelle consommation est associée à la 5G?]({{ site.url }}{{ site.baseurl }}/2021/02/19/quelle-consommation-est-associee-a-la-5g.html).

@@ -115,5 +115,5 @@ Le constat est le même concernant l'empreinte carbone de la 5G. Le Haut Conseil
 
 
 # Sommaire
-- [Article 1 : La 5G, c'est quoi?]({% post_url 2021-02-05-la-5g-cest-quoi %}).
-- [Article 2 : La 5G, comment ça fonctionne?]({% post_url 2021-02-12-la-5G-comment-ca-fonctionne %}). 
+- [Article 1 : La 5G, c'est quoi?]({{ site.url }}{{ site.baseurl }}/2021/02/05/la-5g-cest-quoi.html). 
+- [Article 2 : La 5G, comment ça fonctionne?]({{ site.url }}{{ site.baseurl }}/2021/02/12/la-5G-comment-ca-fonctionne.html).
