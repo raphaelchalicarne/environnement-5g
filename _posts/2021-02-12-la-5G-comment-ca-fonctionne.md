@@ -40,3 +40,4 @@ La 5G "Stand Alone" contrôlée par un cœur de réseau 5G sera mise en place à
 # Sommaire
 - [Article 1 : La 5G, c'est quoi?]({{ site.url }}{{ site.baseurl }}/2021/02/05/la-5g-cest-quoi.html). 
 - [Article 3 : Quelle consommation est associée à la 5G?]({{ site.url }}{{ site.baseurl }}/2021/02/19/quelle-consommation-est-associee-a-la-5g.html).
+- [Article 4 : La 5G peut elle provoquer une réduction des gaz à effet de serre?]({{ site.url }}{{ site.baseurl }}/2021/02/26/la-5G-peut-elle-provoquer-une-reduction-des-ges.html)

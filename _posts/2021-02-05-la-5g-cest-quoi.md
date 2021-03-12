@@ -120,3 +120,4 @@ Les principales performances attendues de la 5G - augmentations des débits, ré
 # Sommaire
 - [Article 2 : La 5G, comment ça fonctionne?]({{ site.url }}{{ site.baseurl }}/2021/02/12/la-5G-comment-ca-fonctionne.html).
 - [Article 3 : Quelle consommation est associée à la 5G?]({{ site.url }}{{ site.baseurl }}/2021/02/19/quelle-consommation-est-associee-a-la-5g.html).
+- [Article 4 : La 5G peut elle provoquer une réduction des gaz à effet de serre?]({{ site.url }}{{ site.baseurl }}/2021/02/26/la-5G-peut-elle-provoquer-une-reduction-des-ges.html)

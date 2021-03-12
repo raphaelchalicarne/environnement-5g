@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"L’empreinte carbone du numérique De quoi parle-t’on? Ericsson a publié un rapport en 2020 sur l’empreinte carbone du secteur du numérique. Dans leur rapport, ce concept d’empreinte carbone va au-delà de la simple consommation d’électricité des produits. Il intègre les émissions de gaz à effet de serre associées à l’énergie...","categories": [],
         "tags": [],
         "url": "https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g.html"
+      },{
+        "title": "La 5G peut elle provoquer une réduction des gaz à effet de serre?",
+        "excerpt":"Efficacité énergétique L’argument principal concernant le déploiement de la 5G, est qu’il s’agit d’un réseau développé en prenant spécifiquement en compte la problématique de la consommation énergétique dès sa conception. Des optimisations spécifiques de l’interface radio ont ainsi été définies au cours de sa normalisation au 3GPP, notamment pour permettre...","categories": [],
+        "tags": [],
+        "url": "https://raphaelchalicarne.github.io/environnement-5g/2021/02/26/la-5G-peut-elle-provoquer-une-reduction-des-ges.html"
       }]

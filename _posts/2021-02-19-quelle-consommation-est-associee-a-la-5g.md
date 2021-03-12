@@ -125,3 +125,4 @@ Puisqu'une majorité de l'impact carbone lié au déploiement de la 5G repose su
 # Sommaire
 - [Article 1 : La 5G, c'est quoi?]({{ site.url }}{{ site.baseurl }}/2021/02/05/la-5g-cest-quoi.html). 
 - [Article 2 : La 5G, comment ça fonctionne?]({{ site.url }}{{ site.baseurl }}/2021/02/12/la-5G-comment-ca-fonctionne.html).
+- [Article 4 : La 5G peut elle provoquer une réduction des gaz à effet de serre?]({{ site.url }}{{ site.baseurl }}/2021/02/26/la-5G-peut-elle-provoquer-une-reduction-des-ges.html)
