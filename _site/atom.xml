@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://raphaelchalicarne.github.io/environnement-5g/atom.xml" rel="self" type="application/atom+xml" /><link href="https://raphaelchalicarne.github.io/environnement-5g/" rel="alternate" type="text/html" hreflang="fr" /><updated>2021-03-12T00:41:57+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/atom.xml</id><title type="html">L’impact environnemental de la 5G</title><subtitle>Veille technologique dans le cadre du MOS 4.4 : Nouvelles Technologies de l'Information et de la Communication</subtitle><author><name>Raphaël Chalicarne</name></author><entry><title type="html">Quelle consommation est associée à la 5G?</title><link href="https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g.html" rel="alternate" type="text/html" title="Quelle consommation est associée à la 5G?" /><published>2021-02-19T00:00:00+01:00</published><updated>2021-02-19T00:00:00+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g</id><content type="html" xml:base="https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g.html">&lt;h1 id=&quot;lempreinte-carbone-du-numérique&quot;&gt;L’empreinte carbone du numérique&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://raphaelchalicarne.github.io/environnement-5g/atom.xml" rel="self" type="application/atom+xml" /><link href="https://raphaelchalicarne.github.io/environnement-5g/" rel="alternate" type="text/html" hreflang="fr" /><updated>2021-03-12T01:34:34+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/atom.xml</id><title type="html">L’impact environnemental de la 5G</title><subtitle>Veille technologique dans le cadre du MOS 4.4 : Nouvelles Technologies de l'Information et de la Communication</subtitle><author><name>Raphaël Chalicarne</name></author><entry><title type="html">Quelle consommation est associée à la 5G?</title><link href="https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g.html" rel="alternate" type="text/html" title="Quelle consommation est associée à la 5G?" /><published>2021-02-19T00:00:00+01:00</published><updated>2021-02-19T00:00:00+01:00</updated><id>https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g</id><content type="html" xml:base="https://raphaelchalicarne.github.io/environnement-5g/2021/02/19/quelle-consommation-est-associee-a-la-5g.html">&lt;h1 id=&quot;lempreinte-carbone-du-numérique&quot;&gt;L’empreinte carbone du numérique&lt;/h1&gt;
 &lt;h2 id=&quot;de-quoi-parle-ton&quot;&gt;De quoi parle-t’on?&lt;/h2&gt;
 &lt;p&gt;Ericsson a publié &lt;a href=&quot;https://www.ericsson.com/en/reports-and-papers/industrylab/reports/a-quick-guide-to-your-digital-carbon-footprint&quot;&gt;un rapport&lt;/a&gt; en 2020 sur l’empreinte carbone du secteur du numérique. Dans leur rapport, ce concept d’empreinte carbone va au-delà de la simple consommation d’électricité des produits. Il intègre les émissions de gaz à effet de serre associées à l’énergie et aux matériaux utilisés tout au long du cycle de vie d’un produit. Cela comprend l’acquisition de matières premières, la production et l’assemblage, le transport, l’exploitation et le traitement en fin de vie. Il faut noter que &lt;strong&gt;les impacts indirects de l’utilisation des TIC (&lt;em&gt;Technologies de l’information et de la communication&lt;/em&gt;) ne sont pas inclus dans l’empreinte carbone.&lt;/strong&gt;&lt;/p&gt;
 
@@ -19,6 +19,93 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Cela pourrait s’expliquer par l’amélioration de l’efficacité énergétique des appareils, et par le remplacement des PC par des smartphones qui consomment moins. D’après l’étude dont est issue la figure, la consommation totale d’énergie est plus corellée au nombre d’utilisateurs qu’à la quantité de données échangées. La principale explication est que la part des abonnements mobiles a augmenté rapidement et que la connexion des utilisateurs mobiles nécessite moins d’énergie. En raison des contraintes de fonctionnement de la batterie, la consommation d’énergie des appareils mobiles est restée faible.&lt;/p&gt;
+
+&lt;p&gt;Cette décorrélation ne fait pas consensus et &lt;a href=&quot;https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/&quot;&gt;l’étude réalisée par le collectif d’experts indépendants “iNum”&lt;/a&gt; sur les impacts environnementaux du numérique en France considère que le secteur des TIC représente 3,2% des émissions de gaz à effet de serre, qui sont principalement importées depuis d’autres pays.&lt;/p&gt;
+
+&lt;h2 id=&quot;comment-se-répartit-lempreinte-carbone-du-numérique&quot;&gt;Comment se répartit l’empreinte carbone du numérique?&lt;/h2&gt;
+&lt;p&gt;Que l’on considère des sources plutôt “pro-technologie” (la Fédération Française des Télécom, ou Ericsson), ou plutôt “pro-environnement”, les différents experts s’accordent à dire que la majeure partie de l’empreinte carbone du numérique en France est importée, et est dûe à la production de terminaux.&lt;/p&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+    &lt;table&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+        &lt;th rowspan=&quot;2&quot;&gt;%&lt;/th&gt;
+        &lt;th colspan=&quot;2&quot;&gt;Energie&lt;/th&gt;
+        &lt;th colspan=&quot;2&quot;&gt;Gaz à effet de serre&lt;/th&gt;
+        &lt;th colspan=&quot;2&quot;&gt;Eau&lt;/th&gt;
+        &lt;th colspan=&quot;2&quot;&gt;Ressources&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Fabrication&lt;/td&gt;
+        &lt;td&gt;Utilisation&lt;/td&gt;
+        &lt;td&gt;Fab.&lt;/td&gt;
+        &lt;td&gt;Util.&lt;/td&gt;
+        &lt;td&gt;Fab.&lt;/td&gt;
+        &lt;td&gt;Util.&lt;/td&gt;
+        &lt;td&gt;Fab.&lt;/td&gt;
+        &lt;td&gt;Util.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Utilisateurs&lt;/td&gt;
+        &lt;td&gt;37%&lt;/td&gt;
+        &lt;td&gt;27%&lt;/td&gt;
+        &lt;td&gt;76%&lt;/td&gt;
+        &lt;td&gt;8%&lt;/td&gt;
+        &lt;td&gt;86%&lt;/td&gt;
+        &lt;td&gt;5%&lt;/td&gt;
+        &lt;td&gt;79%&lt;/td&gt;
+        &lt;td&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Réseau&lt;/td&gt;
+        &lt;td&gt;2%&lt;/td&gt;
+        &lt;td&gt;19%&lt;/td&gt;
+        &lt;td&gt;5%&lt;/td&gt;
+        &lt;td&gt;5%&lt;/td&gt;
+        &lt;td&gt;1%&lt;/td&gt;
+        &lt;td&gt;4%&lt;/td&gt;
+        &lt;td&gt;15%&lt;/td&gt;
+        &lt;td&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Centres &lt;br /&gt;informatiques&lt;/td&gt;
+        &lt;td&gt;2%&lt;/td&gt;
+        &lt;td&gt;13%&lt;/td&gt;
+        &lt;td&gt;2%&lt;/td&gt;
+        &lt;td&gt;4%&lt;/td&gt;
+        &lt;td&gt;1%&lt;/td&gt;
+        &lt;td&gt;3%&lt;/td&gt;
+        &lt;td&gt;6%&lt;/td&gt;
+        &lt;td&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;41%&lt;/td&gt;
+        &lt;td&gt;59%&lt;/td&gt;
+        &lt;td&gt;83%&lt;/td&gt;
+        &lt;td&gt;17%&lt;/td&gt;
+        &lt;td&gt;88%&lt;/td&gt;
+        &lt;td&gt;12%&lt;/td&gt;
+        &lt;td&gt;100%&lt;/td&gt;
+        &lt;td&gt;0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;figcaption&gt;Répartition des impacts du numérique en France en 2020&lt;br /&gt;Source : &lt;a href=&quot;https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf#page=10&quot;&gt;Etude : « iNum2020 », Impact environnementaux du numérique en France&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Ici, l’indicateur de contribution à l’épuisement des ressources abiotiques ne prend en compte que les ressources « matière ». L’énergie fossile, qui est aussi une ressource abiotique, n’est pas prise en compte. En revanche, le pétrole, s’il est utilisé pour fabriquer du plastique, est par exemple pris en compte.&lt;/p&gt;
+
+&lt;h1 id=&quot;quen-est-il-de-lempreinte-carbone-de-la-5g&quot;&gt;Qu’en est-il de l’empreinte carbone de la 5G?&lt;/h1&gt;
+
+&lt;p&gt;Le constat est le même concernant l’empreinte carbone de la 5G. Le Haut Conseil pour le Climat a publié un rapport intitulé &lt;a href=&quot;https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf&quot;&gt;“Maîtriser l’impact carbone de la 5G”&lt;/a&gt; qui se base sur une étude publiée par le cabinet Citizing intitulée &lt;a href=&quot;https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/rapport-5g_haut-conseil-pour-le-climat_etude-exterieure.pdf&quot;&gt;“Déploiement de la 5G en France : quel impact sur la consommation d’énergie et l’empreinte carbone ?”&lt;/a&gt;. Selon eux, la moitié de l’impact carbone de la 5G serait due à la production de terminaux, part qui monte aux trois-quart si l’on ajoute la phase de production des terminaux, réseaux et centres de données. Seulement un quart de l’impact carbone de la 5G serait donc lié à l’utilisation des terminaux et des réseaux, qui repose très large-ment sur une électricité française décarbonée.&lt;/p&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://raphaelchalicarne.github.io/environnement-5g/assets/images/figure_3_hcc.png&quot; alt=&quot;Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute&quot; /&gt;
+  &lt;figcaption&gt;Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute &lt;br /&gt;Source : &lt;a href=&quot;https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=19&quot;&gt;Haut conseil pour le climat, &quot;Maîtriser l'impact carbone de la 5G&quot;&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;h1 id=&quot;sommaire&quot;&gt;Sommaire&lt;/h1&gt;
 &lt;ul&gt;

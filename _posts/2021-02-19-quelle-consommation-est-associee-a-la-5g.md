@@ -26,6 +26,93 @@ D'après [le rapport d'Ericsson](https://www.ericsson.com/en/reports-and-papers/
 
 Cela pourrait s'expliquer par l'amélioration de l'efficacité énergétique des appareils, et par le remplacement des PC par des smartphones qui consomment moins. D'après l'étude dont est issue la figure, la consommation totale d'énergie est plus corellée au nombre d'utilisateurs qu'à la quantité de données échangées. La principale explication est que la part des abonnements mobiles a augmenté rapidement et que la connexion des utilisateurs mobiles nécessite moins d'énergie. En raison des contraintes de fonctionnement de la batterie, la consommation d'énergie des appareils mobiles est restée faible.
 
+Cette décorrélation ne fait pas consensus et [l'étude réalisée par le collectif d'experts indépendants "iNum"](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/) sur les impacts environnementaux du numérique en France considère que le secteur des TIC représente 3,2% des émissions de gaz à effet de serre, qui sont principalement importées depuis d'autres pays.
+
+## Comment se répartit l'empreinte carbone du numérique?
+Que l'on considère des sources plutôt "pro-technologie" (la Fédération Française des Télécom, ou Ericsson), ou plutôt "pro-environnement", les différents experts s'accordent à dire que la majeure partie de l'empreinte carbone du numérique en France est importée, et est dûe à la production de terminaux.
+
+<figure class="align-center">
+    <table>
+    <thead>
+    <tr>
+        <th rowspan="2">%</th>
+        <th colspan="2">Energie</th>
+        <th colspan="2">Gaz à effet de serre</th>
+        <th colspan="2">Eau</th>
+        <th colspan="2">Ressources</th>
+    </tr>
+    <tr>
+        <td>Fabrication</td>
+        <td>Utilisation</td>
+        <td>Fab.</td>
+        <td>Util.</td>
+        <td>Fab.</td>
+        <td>Util.</td>
+        <td>Fab.</td>
+        <td>Util.</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Utilisateurs</td>
+        <td>37%</td>
+        <td>27%</td>
+        <td>76%</td>
+        <td>8%</td>
+        <td>86%</td>
+        <td>5%</td>
+        <td>79%</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td>Réseau</td>
+        <td>2%</td>
+        <td>19%</td>
+        <td>5%</td>
+        <td>5%</td>
+        <td>1%</td>
+        <td>4%</td>
+        <td>15%</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td>Centres <br>informatiques</td>
+        <td>2%</td>
+        <td>13%</td>
+        <td>2%</td>
+        <td>4%</td>
+        <td>1%</td>
+        <td>3%</td>
+        <td>6%</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>41%</td>
+        <td>59%</td>
+        <td>83%</td>
+        <td>17%</td>
+        <td>88%</td>
+        <td>12%</td>
+        <td>100%</td>
+        <td>0%</td>
+    </tr>
+    </tbody>
+    </table>
+    <figcaption>Répartition des impacts du numérique en France en 2020<br>Source : <a href="https://www.greenit.fr/wp-content/uploads/2021/02/2021-01-iNum-etude-impacts-numerique-France-rapport-0.8.pdf#page=10">Etude : « iNum2020 », Impact environnementaux du numérique en France</a></figcaption>
+</figure>
+
+Ici, l'indicateur de contribution à l’épuisement des ressources abiotiques ne prend en compte que les ressources « matière ». L’énergie fossile, qui est aussi une ressource abiotique, n’est pas prise en compte. En revanche, le pétrole, s’il est utilisé pour fabriquer du plastique, est par exemple pris en compte.
+
+# Qu'en est-il de l'empreinte carbone de la 5G?
+
+Le constat est le même concernant l'empreinte carbone de la 5G. Le Haut Conseil pour le Climat a publié un rapport intitulé ["Maîtriser l'impact carbone de la 5G"](https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf) qui se base sur une étude publiée par le cabinet Citizing intitulée ["Déploiement de la 5G en France : quel impact sur la consommation d’énergie et l’empreinte carbone ?"](https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/rapport-5g_haut-conseil-pour-le-climat_etude-exterieure.pdf). Selon eux, la moitié de l’impact carbone de la 5G serait due à la production de terminaux, part qui monte aux trois-quart si l’on ajoute la phase de production des terminaux, réseaux et centres de données. Seulement un quart de l’impact carbone de la 5G serait donc lié à l’utilisation des terminaux et des réseaux, qui repose très large-ment sur une électricité française décarbonée.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/figure_3_hcc.png" alt="Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute">
+  <figcaption>Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute <br>Source : <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=19">Haut conseil pour le climat, "Maîtriser l'impact carbone de la 5G"</a></figcaption>
+</figure>
+
 
 # Sommaire
 - [Article 1 : La 5G, c'est quoi?]({% post_url 2021-02-05-la-5g-cest-quoi %}).
