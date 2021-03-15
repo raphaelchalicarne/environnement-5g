@@ -17,7 +17,7 @@ D'après le [rapport spécial sur les conséquences d’un réchauffement plané
 Cependant, pour Ericsson, l'utilisation de données dépassées ou des données combinées de manière erronnée mènent à des titres d'articles qui peuvent se révéler trompeurs.
 
 ## Quelle est l'empreinte carbone des TIC?
-D'après [le rapport d'Ericsson](https://www.ericsson.com/en/reports-and-papers/industrylab/reports/a-quick-guide-to-your-digital-carbon-footprint) et [l'étude sur laquelle ils se basent](https://www.mdpi.com/2071-1050/10/9/3027), on observe un "découplage", voire une décorrélation, entre le trafic réseau et les émissions carbone.
+D'après [le rapport d'Ericsson](https://www.ericsson.com/en/reports-and-papers/industrylab/reports/a-quick-guide-to-your-digital-carbon-footprint) et [l'étude sur laquelle ils se basent](https://www.mdpi.com/2071-1050/10/9/3027), on observe un "découplage" entre le trafic réseau et les émissions carbone.
 
 <figure class="align-center">
   <img src="https://www.mdpi.com/sustainability/sustainability-10-03027/article_deploy/html/images/sustainability-10-03027-g017.png" alt="Trafic de données total, consommation électrique opérationnelle et nombre d'utilisateurs du secteur des TIC de 1990 à 2020. Noter que seuls les utilisateurs humains sont comptabilisés dans les données d'abonnement disponibles et les connexions qui ne sont pas de l'internet des objets.">
@@ -26,7 +26,7 @@ D'après [le rapport d'Ericsson](https://www.ericsson.com/en/reports-and-papers/
 
 Cela pourrait s'expliquer par l'amélioration de l'efficacité énergétique des appareils, et par le remplacement des PC par des smartphones qui consomment moins. D'après l'étude dont est issue la figure, la consommation totale d'énergie est plus corellée au nombre d'utilisateurs qu'à la quantité de données échangées. La principale explication est que la part des abonnements mobiles a augmenté rapidement et que la connexion des utilisateurs mobiles nécessite moins d'énergie. En raison des contraintes de fonctionnement de la batterie, la consommation d'énergie des appareils mobiles est restée faible.
 
-Cette décorrélation ne fait pas consensus et [l'étude réalisée par le collectif d'experts indépendants "iNum"](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/) sur les impacts environnementaux du numérique en France considère que le secteur des TIC représente 3,2% des émissions de gaz à effet de serre, qui sont principalement importées depuis d'autres pays.
+Cette décorrélation ne fait pas consensus et [l'étude réalisée par le collectif d'experts indépendants "iNum"](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/) sur les impacts environnementaux du numérique en France considère que le secteur des TIC représente 3,2% des émissions de gaz à effet de serre du secteur en France, qui sont principalement importées depuis d'autres pays.
 
 ## Comment se répartit l'empreinte carbone du numérique?
 Que l'on considère des sources plutôt "pro-technologie" (la Fédération Française des Télécom, ou Ericsson), ou plutôt "pro-environnement", les différents experts s'accordent à dire que la majeure partie de l'empreinte carbone du numérique en France est importée, et est dûe à la production de terminaux.
@@ -113,7 +113,7 @@ Le constat est le même concernant l'empreinte carbone de la 5G. Le Haut Conseil
   <figcaption>Répartition de l’impact carbone de la 5G par postes d’émissions en 2030 dans l’évaluation haute <br>Source : <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/haut-conseil-pour-le-climat_rapport-5g.pdf#page=19">Haut conseil pour le climat, "Maîtriser l'impact carbone de la 5G"</a></figcaption>
 </figure>
 
-Différents scénarios de déploiement de la 5G ou de non-déploiement ont été considérés. Dans tous les cas, le Haut Conseil pour le Climat prévoit une augmentation de l'empreinte carbone du numérique. Cette empreinte carbone du numérique pourrait se voir accrue en 2030 toutes choses égales par ailleurs de 2,7 Mt éqCO2 dans l’évaluation basse (différence entre le scénario « la 5G du cahier des charges » et le « non-déploiement haut ») à 6,7 Mt éqCO2 dans l’évaluation haute (différence entre le scénario « la vraie 5G pour tous » et le « non-déploiement bas ») à l’horizon 2030.
+Différents scénarios de déploiement de la 5G ou de non-déploiement ont été considérés. Dans tous les cas, le Haut Conseil pour le Climat prévoit une augmentation de l'empreinte carbone du numérique. Cette empreinte carbone du numérique pourrait augmenter en 2030 toutes choses égales par ailleurs de 2,7 Mt éqCO2 dans l’évaluation basse (différence entre le scénario « la 5G du cahier des charges » et le « non-déploiement haut ») à 6,7 Mt éqCO2 dans l’évaluation haute (différence entre le scénario « la vraie 5G pour tous » et le « non-déploiement bas ») à l’horizon 2030.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/figure_2_hcc.png" alt="L'empreinte carbone du numérique selon plusieurs variantes de déploiement et non-déploiement de la 5G">
